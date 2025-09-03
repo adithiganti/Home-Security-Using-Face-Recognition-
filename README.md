@@ -84,16 +84,6 @@
   <img src="https://img.shields.io/badge/Servo-darkgreen?style=flat-square" alt="Servo Motor" />
 </p>
 
----
-
-<h2>📫 Contact</h2>
-
-<p>
-  Reach out for collaboration or insights:
-  <br>
-  📧 Email: <b>gantisharan6639@gmail.com</b>  
-  🔗 LinkedIn: <a href="https://linkedin.com/in/sharan-ganti" target="_blank">Sharan Ganti</a>
-</p>
 
 ---
 
